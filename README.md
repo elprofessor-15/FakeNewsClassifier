@@ -42,7 +42,7 @@ The dataset used for this project is the **Kaggle Fake News Dataset**, which con
 ## How to Use
 
 1. Clone the repository:
-   git clone https://github.com/your-username/fake-news-classifier.git
+   git clone https://github.com/elprofessor-15/FakeNewsClassifier.git
 2. Install the required dependencies:
    pip install -r requirements.txt
 3. Run the `fake_news_classifier.ipynb` file to train the model and make predictions.
